@@ -1,16 +1,11 @@
-### Hi there 👋
+Hi, I'm Ignacio Briceño 👋
+I'm Software Developer, who loves building web applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
 
-<!--
-**estebanbri/estebanbri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Expertise:
+Java Application Development 
+Agile Development [SCRUM]
+Postman for API Testing
+Unit Testing: JUnit
+Design Patterns
+Version Control [GIT]
+Functional Programming
