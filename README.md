@@ -16,7 +16,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 - Functional Programming
 
 ### Back-end
-<div style="margin-left: 30px;">
+<div style="padding-left: 30px;">
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/java.jpeg"></code>
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/spring.png"></code>
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/junit.png"></code>
