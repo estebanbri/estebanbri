@@ -36,5 +36,11 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/oracle.png"></code>
 
 **Tools**
+
 <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/docker.png"></code>
+<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/bitbucket.svg"></code>
+
+**SO**
+
+<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/linux.svg"></code>
 
