@@ -20,7 +20,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/java.jpeg"></code>
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/spring.png"></code>
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/junit.png"></code>
-<code><img width="40" height="40"" src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.jpg"></code>
+<code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.jpg"></code>
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi.jpg"></code>
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.jpg"></code>
 
@@ -45,7 +45,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/git.png"></code>
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/bitbucket.svg"></code>
-<code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/gitlab.png"></code>
+<code><img width="60" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/gitlab.png"></code>
 
 ### SO
 
