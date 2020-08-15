@@ -2,7 +2,7 @@
 I'm Software Developer, who loves building web applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
 
 ### Expertise:
-- Java Application Development <a href="https://icons8.com/icon/13679/logotipo-de-java-coffee-cup">Logotipo de Java Coffee Cup icon by Icons8</a>
+- Java Application Development <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 - Spring framework
 - Agile Development [SCRUM]
 - Postman for API Testing
