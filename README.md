@@ -3,12 +3,13 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 
 ### Expertise:
 - Java Application Development <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-- Spring framework
+- Spring framework <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+- Intellij <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
 - Agile Development [SCRUM]
 - Postman for API Testing
 - Unit Testing [JUnit, Mockito]
 - Acceptance Test [FitNesse]
 - Design Patterns
-- Version Control [GIT]
+- Version Control [GIT] <img src="https://img.icons8.com/color/48/000000/git.png"/>
 - Functional Programming
-- AngularJs
+- AngularJs <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
