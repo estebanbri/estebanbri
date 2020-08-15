@@ -23,6 +23,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.jpg"></code>
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi.jpg"></code>
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.jpg"></code>
+</p>
 
 ### Front-end
 
