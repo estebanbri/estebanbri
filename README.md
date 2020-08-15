@@ -16,14 +16,14 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 - Functional Programming
 
 ### Back-end
-<p style="margin-left: 30px;">
+<div style="margin-left: 30px;">
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/java.jpeg"></code>
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/spring.png"></code>
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/junit.png"></code>
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.jpg"></code>
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi.jpg"></code>
     <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.jpg"></code>
-</p>
+</div>
 
 ### Front-end
 
