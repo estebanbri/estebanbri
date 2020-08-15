@@ -43,6 +43,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 <code><img width="70" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/docker.png"></code>
 <code><img width="70" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/jira.png"></code>
 <code><img width="70" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/postman.png"></code>
+<code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/intellij.png"></code>
 
 ### SCM
 
