@@ -15,40 +15,43 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 - Design Patterns
 - Functional Programming
 
-**Back-end**
+### Back-end
+<p style="margin-left: 30px;">
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/java.jpeg"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/spring.png"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/junit.png"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.jpg"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi.jpg"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.jpg"></code>
 
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/java.jpeg"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/spring.png"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/junit.png"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.jpg"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi.jpg"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.jpg"></code>
-
-###Front-end
+### Front-end
 
 <p style="margin-left: 30px;">
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/html.png"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/css3.png"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/js.png"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/angularjs.png"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/html.png"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/css3.png"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/js.png"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/angularjs.png"></code>
 </p>
 
-**Databases**
+### Databases
+<p style="margin-left: 30px;">
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/oracle.png"></code>
+</p>
 
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/oracle.png"></code>
+### Tools
+<p style="margin-left: 30px;">
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/docker.png"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/jira.png"></code>
+</p>
 
-**Tools**
+### SCM
+<p style="margin-left: 30px;">
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/git.png"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/bitbucket.svg"></code>
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/gitlab.png"></code>
+</p>
 
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/docker.png"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/jira.png"></code>
-
-**SCM**
-
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/git.png"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/bitbucket.svg"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/gitlab.png"></code>
-
-**SO**
-
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/linux.svg"></code>
-
+### SO
+<p style="margin-left: 30px;">
+    <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/linux.svg"></code>
+</p>
