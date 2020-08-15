@@ -38,9 +38,13 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 **Tools**
 
 <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/docker.png"></code>
+<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/jira.png"></code>
+
+**SCM**
+
+<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/git.png"></code>
 <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/bitbucket.svg"></code>
 <code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/gitlab.png"></code>
-<code><img height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/jira.png"></code>
 
 **SO**
 
