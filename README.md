@@ -17,7 +17,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 ### Front-end
 
 <code><img width="70" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/html.png"></code>
-<code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/css3.png"></code>
+<code><img width="30" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/css3.png"></code>
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/js.png"></code>
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/angularjs.png"></code>
 
