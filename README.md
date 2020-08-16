@@ -28,18 +28,18 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 
 ### Tools
 
-<code><img width="70" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/docker.png"></code>
-<code><img width="70" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/jira.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/docker.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/jira.png"></code>
 <code><img width="70" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/postman.png"></code>
-<code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/intellij.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/intellij.png"></code>
 
 ### SCM
 
-<code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/git.png"></code>
-<code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/bitbucket.png"></code>
-<code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/gitlab.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/git.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/bitbucket.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/gitlab.png"></code>
 
 ### OS
 
-<code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/linux.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/linux.png"></code>
 
