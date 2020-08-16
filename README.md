@@ -10,7 +10,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/junit2.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi2.png"></code>
-<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven3.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/fitnesse.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/hibernate.png"></code>
 
@@ -30,7 +30,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/docker.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/jira.png"></code>
-<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/postman.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/postman2.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/intellij.png"></code>
 
 ### SCM
