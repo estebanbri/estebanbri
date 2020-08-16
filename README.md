@@ -12,7 +12,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven3.png"></code>
 <code><img width="45" height="38" src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi2.png"></code>
 <code><img width="45" height="38" src="https://github.com/estebanbri/estebanbri/blob/master/assets/fitnesse.png"></code>
-<code><img width="45" height="38" src="https://github.com/estebanbri/estebanbri/blob/master/assets/hibernate.png"></code>
+<code><img width="45" height="45" src="https://github.com/estebanbri/estebanbri/blob/master/assets/hibernate.png"></code>
 
 ### Front-end
 
