@@ -9,10 +9,10 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/spring.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/junit2.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.png"></code>
-<code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi.jpg"></code>
-<code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.jpg"></code>
-<code><img width="80" height="25" src="https://github.com/estebanbri/estebanbri/blob/master/assets/fitnesse.jpg"></code>
-<code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/hibernate.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.jpg"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/fitnesse.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/hibernate.png"></code>
 
 ### Front-end
 
@@ -30,7 +30,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/docker.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/jira.png"></code>
-<code><img width="70" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/postman.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/postman.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/intellij.png"></code>
 
 ### SCM
