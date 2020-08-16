@@ -12,7 +12,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 <code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.jpg"></code>
 <code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi.jpg"></code>
 <code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.jpg"></code>
-<code><img width="80" height="30" src="https://github.com/estebanbri/estebanbri/blob/master/assets/fitnesse.jpg"></code>
+<code><img width="80" height="25" src="https://github.com/estebanbri/estebanbri/blob/master/assets/fitnesse.jpg"></code>
 <code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/hibernate.png"></code>
 
 ### Front-end
@@ -40,7 +40,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/bitbucket.svg"></code>
 <code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/gitlab.png"></code>
 
-### SO
+### OS
 
 <code><img width="40" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/linux.svg"></code>
 
