@@ -24,7 +24,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 
 ### Databases
 
-<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/oracle.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/oracle2.png"></code>
 
 ### Tools
 
