@@ -9,8 +9,8 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/spring.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/junit2.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.png"></code>
-<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi.png"></code>
-<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.jpg"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/apache-poi2.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/maven.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/fitnesse.png"></code>
 <code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/hibernate.png"></code>
 
