@@ -6,7 +6,7 @@ I'm Software Developer, who loves building web applications. Dynamic and passion
 ### Back-end
 
 <code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/java.jpeg"></code>
-<code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/java2.png"></code>
+<code><img src="https://github.com/estebanbri/estebanbri/blob/master/assets/java2.png"></code>
 <code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/spring.png"></code>
 <code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/junit.png"></code>
 <code><img width="80" height="40" src="https://github.com/estebanbri/estebanbri/blob/master/assets/mockito.jpg"></code>
