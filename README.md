@@ -1,4 +1,9 @@
-## Hi, I'm Ignacio Briceño 👋
+## Hi, I'm Ignacio Briceño 👋 
+<!-- LINKEDIN -->
+<a href="https://www.linkedin.com/in/ignacio-esteban-briceno/">
+<img alt="Ignacio Briceño" src="https://img.shields.io/badge/-LinkedIn-5f00c4?style=flat&logo=Linkedin&logoColor=white" />
+</a>
+
 I'm Software Developer, who loves building web applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
 
 ## Expertise:
